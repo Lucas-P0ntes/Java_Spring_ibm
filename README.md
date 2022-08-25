@@ -1,5 +1,4 @@
-# Java_Spring_ibm
-
+# Treinamento_da_IBM_E_GamaAcademy
 
 <h4 align="center"> 
 	:test_tube:  Status: Exercicios  :test_tube:
