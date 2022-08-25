@@ -6,4 +6,4 @@
 
 ## O que é ?
 
-São exercícios da segunda metade do treinamento da Gama Academy com a IBM:fire:
+São exercícios do treinamento da Gama Academy com a IBM:fire:
